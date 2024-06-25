@@ -4,12 +4,6 @@
 ## Welcome, I am Larissa Gabriel dos Santos! :)
 
 ---
-[Português](#Português)
-[English](#English)
-
-
-
-#Português
 
 
 
