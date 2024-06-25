@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período, trabalh
 ### Tecnologias & Ferramentas
 Aqui estão algumas das tecnologias com as quais trabalho:
 
-**Linguagens de Programação** **Web Development** **Versionamento de Código**
+**Linguagens de Programação** | **Web Development** | **Versionamento de Código**
 <div style="display: inline">
 	<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
 	<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
