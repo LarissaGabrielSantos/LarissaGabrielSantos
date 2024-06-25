@@ -8,7 +8,10 @@
 [English](#English)
 
 
-######Português
+
+##Português
+
+
 
 ### Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período, trabalhei como Jovem Aprendiz em Segurança da Informação na empresa OI e atualmente sou estágiaria no mesmo cargo e mesma empresa. Tenho paixão por aprender e compartilhar conhecimento. Meu objetivo é criar soluções eficientes e seguras que possam impactar positivamente a vida das pessoas..
