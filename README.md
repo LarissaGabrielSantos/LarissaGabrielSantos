@@ -34,6 +34,6 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ### Conecte-se Comigo
 <a href="https://www.linkedin.com/in/larissa-gabriel-dos-santos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-[](mailto:larissagsantos077@gmail.com)<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.gmail.com.br/larissagsantos077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
