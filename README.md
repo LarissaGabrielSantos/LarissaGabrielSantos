@@ -11,7 +11,7 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período, trabalhei como Jovem Aprendiz em Segurança da Informação na empresa OI e atualmente sou estágiaria no mesmo cargo e mesma empresa. Tenho paixão por aprender e compartilhar conhecimento. Meu objetivo é criar soluções eficientes e seguras que possam impactar positivamente a vida das pessoas.
 
 ### Tecnologias & Ferramentas
-Aqui estão algumas das tecnologias com as quais trabalho:
+Algumas das tecnologias com as quais trabalho:
 
 **Linguagens de Programação** | **Web Development** | **Versionamento de Código**
 <div style="display: inline">
@@ -33,7 +33,5 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ### Conecte-se Comigo
 <a href="https://www.linkedin.com/in/larissa-gabriel-dos-santos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<mailto:"larissagsantos077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
