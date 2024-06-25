@@ -32,7 +32,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ![LarissaGabrielSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaGabrielSantos&show_icons=true&theme=dracula)
 
 ### Conecte-se Comigo
-- [LinkedIn](https://www.linkedin.com/in/larissa-gabriel-dos-santos/)
+<a href="https://www.linkedin.com/in/larissa-gabriel-dos-santos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 - [E-mail](mailto:larissagsantos077@gmail.com)
 
 ---
