@@ -9,12 +9,14 @@
 
 ### Sobre mim / About me
 * Estudante de Análise e Desenvolvimento de Sistemas no 3º período
-* trabalhei como Jovem Aprendiz em Segurança da Informação e atualmente sou estágiaria no mesmo cargo
-*  Tenho paixão por aprender e compartilhar conhecimento.
-*  Meu objetivo é criar soluções eficientes e seguras que possam impactar positivamente a vida das pessoas.
+* Programadora iniciante
+* Atualmente estagiária em Segurança da Informação
+* Trabalhei como Jovem Aprendiz em Segurança da Informação
+* Tenho paixão por aprender e compartilhar conhecimento.
+* Meu objetivo é criar soluções eficientes e seguras que possam impactar positivamente a vida das pessoas.
 
 ### Tecnologias & Ferramentas
-Algumas das tecnologias com as quais trabalho:
+Algumas das tecnologias que já aprendi / estou aprendendo:
 
 **Linguagens de Programação** | **Web Development** | **Versionamento de Código**
 <div style="display: inline">
