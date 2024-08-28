@@ -15,7 +15,7 @@
 * Tenho paixão por aprender e compartilhar conhecimento.
 * Meu objetivo é criar soluções eficientes e seguras que possam impactar positivamente a vida das pessoas.
 
-### Tecnologias & Ferramentas / Tecnologies & Tools
+### Tecnologias & Ferramentas / Technologies & Tools
 Algumas das tecnologias que já aprendi / estou aprendendo:
 
 **Linguagens de Programação** | **Web Development** | **Versionamento de Código**
