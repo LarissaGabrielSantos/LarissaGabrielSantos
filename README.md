@@ -7,8 +7,11 @@
 
 
 
-### Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período, trabalhei como Jovem Aprendiz em Segurança da Informação e atualmente sou estágiaria no mesmo cargo e mesma empresa. Tenho paixão por aprender e compartilhar conhecimento. Meu objetivo é criar soluções eficientes e seguras que possam impactar positivamente a vida das pessoas.
+### Sobre mim / About me
+* Estudante de Análise e Desenvolvimento de Sistemas no 3º período
+* trabalhei como Jovem Aprendiz em Segurança da Informação e atualmente sou estágiaria no mesmo cargo
+*  Tenho paixão por aprender e compartilhar conhecimento.
+*  Meu objetivo é criar soluções eficientes e seguras que possam impactar positivamente a vida das pessoas.
 
 ### Tecnologias & Ferramentas
 Algumas das tecnologias com as quais trabalho:
