@@ -16,7 +16,7 @@
 * Meu objetivo é criar soluções eficientes e seguras que possam impactar positivamente a vida das pessoas.
 
 ### Tecnologias & Ferramentas / Technologies & Tools
-Algumas das tecnologias que já aprendi / estou aprendendo:
+Algumas das tecnologias que já desenvolvo / estou aprendendo:
 
 **Linguagens de Programação** | **Web Development** | **Versionamento de Código**
 <div style="display: inline">
