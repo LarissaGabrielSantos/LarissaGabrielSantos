@@ -10,8 +10,8 @@
 ### Sobre mim / About me
 * Estudante de Análise e Desenvolvimento de Sistemas no 3º período
 * Programadora iniciante
-* Atualmente estagiária em Segurança da Informação
-* Trabalhei como Jovem Aprendiz em Segurança da Informação
+* Atualmente sou estagiária em Segurança da Informação
+* Minha primeira experiência com T.I, foi como Jovem Aprendiz em Segurança da Informação
 * Tenho paixão por aprender e compartilhar conhecimento.
 * Meu objetivo é criar soluções eficientes e seguras que possam impactar positivamente a vida das pessoas.
 
