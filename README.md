@@ -37,6 +37,14 @@ Algumas das tecnologias que já desenvolvo / estou aprendendo:
 ### GitHub Stats
 ![LarissaGabrielSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaGabrielSantos&show_icons=true&theme=dracula)
 
+<td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+
 ### Conecte-se Comigo
 <a href="https://www.linkedin.com/in/larissa-gabriel-dos-santos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
