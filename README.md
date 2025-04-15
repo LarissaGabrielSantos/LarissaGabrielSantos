@@ -8,7 +8,7 @@
 
 
 ### Sobre mim / About me
-* Estudante de Análise e Desenvolvimento de Sistemas no 3º período
+* Estudante de Análise e Desenvolvimento de Sistemas no 4º período
 * Atualmente sou estagiária em Cloud, mas passei 1 ano como estagiária em Segurança da Informação
 * Minha primeira experiência com T.I, foi como Jovem Aprendiz em Segurança da Informação
 * Tenho paixão por aprender e compartilhar conhecimento.
